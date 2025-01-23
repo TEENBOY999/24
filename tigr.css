@@ -1,0 +1,196 @@
+body{
+    background-image: linear-gradient(70deg,black,purple);
+}
+.title{
+color: aliceblue;
+font-size: 30px;
+position: absolute;
+right: 900px;
+}
+
+.icon{
+    position: absolute;
+    right: 1029px;
+}
+.help-text{
+    color: aliceblue;
+    position: absolute;
+    font-size: 20px;
+    padding: 2px;
+  right: 100px;
+}
+.help-text2{
+    color: aliceblue;
+    position: absolute;
+    font-size: 20px;
+    padding: 2px;
+  right: 200px;
+}
+.help-text3{
+    color: aliceblue;
+    position: absolute;
+    font-size: 20px;
+    padding: 2px;
+  right: 300px;
+}
+.help-text4{
+    color: aliceblue;
+    position: absolute;
+    font-size: 20px;
+    padding: 2px;
+  right: 400px;
+}
+.mans-img{
+    position: absolute;
+    right: 200px;
+    top: 20px;
+    z-index: 1;
+}
+.backround-man{
+    position: absolute;
+    right: 1px;
+z-index: 0;
+top: 30px;
+}
+.intro {
+    max-width: 50%;
+    position: absolute;
+    top: 150px;
+    right: 600px;
+
+}
+
+.intro h1 {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.name {
+    color: #ffffff;
+}
+
+.intro p {
+    font-size: 20px;
+    color: white;
+}
+.button button{
+color: black;
+background-color: yellow;
+    width: 100px;
+    height: 50px;
+position: absolute;
+top: 400px;
+right: 1000px;
+border-radius: 10px;
+}
+.box-1{
+background-color: blueviolet;
+position: absolute;
+top: 900px;
+width: 100px;
+height: 100px;
+right: 200px;
+border-radius: 10px;
+}
+.box-2{
+    background-color: blueviolet;
+    position: absolute;
+    top: 900px;
+    width: 100px;
+    height: 100px;
+    right: 400px;  
+    border-radius: 10px;
+}
+.box-3{
+    background-color: blueviolet;
+    position: absolute;
+    top: 900px;
+    width: 100px;
+    height: 100px;
+    right: 600px; 
+    border-radius: 10px;
+}
+.box-4{
+    background-color: blueviolet;
+position: absolute;
+top: 900px;
+width: 100px;
+height: 100px;
+right: 800px;
+border-radius: 10px;
+}
+.box-5{
+    background-color: blueviolet;
+    position: absolute;
+    top: 1000px;
+    width: 100px;
+    height: 100px;
+    right: 700px;   
+}   
+.img-1{
+    position: absolute;
+    top: 1100px;
+    right: 40px;
+}
+.img-2{
+    position: absolute;
+    top: 1000px;
+    right: 400px;
+
+}
+.img-3{
+    position: absolute;
+    top: 1300px;
+    right: 30px;
+}
+.box-text{
+    background-color: rgb(44, 40, 40);
+    width: 400px;
+    height: 600px;
+    position: absolute;
+    top: 1200px;
+    right: 400px;
+    border-radius: 10px;
+    color: #ffffff;
+}
+.box-text p{
+    text-align: center;
+    font-size: 30px;
+}
+.box-img{
+ position: absolute;
+ top:1200px;   
+ right: 800px;
+}
+.box-img-2{
+    position: absolute;
+    top:1200px;   
+    right: 100px;  
+}
+.box-img-3{
+    position: absolute;
+    top:1600px;   
+    right: 800px;
+}
+.end{
+    background-color: gray;
+    width: 950px;
+    height: 600px;
+    border-radius: 10px;
+    position: absolute;
+    top: 2200px;
+
+}
+.end p{
+    color: #ffffff;
+    position: absolute;
+    top: 1900px;
+    right: 550px;
+    font-size: 40px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1200px;
+}
